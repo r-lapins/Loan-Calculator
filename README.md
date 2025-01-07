@@ -30,3 +30,9 @@ python creditcalc.py --type=diff --principal=500000 --periods=8 --interest=7.8
 >Month 8: payment is 62907
 
 >Overpayment = 14628
+
+e.g. #3:
+
+python creditcalc.py --type=diff --principal=1000000 --payment=104000
+
+>Incorrect parameters.
